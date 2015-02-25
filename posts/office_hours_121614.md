@@ -1,4 +1,4 @@
-## Study Group Expanded
+## Study Group Expanded: 11 December 2014
 
 *Every week I run the [Ruby on Rails Study Group](https://generalassemb.ly/education/ruby-on-rails-study-group/new-york-city/10792) for General Assembly. The sessions themselves are restricted to GA alumni, but I like to share what we learn with everyone!*
 
