@@ -1,5 +1,5 @@
 ## Just Ship It!: The Rule Still Applies
-### Septemeber 14, 2014
+- Septemeber 14, 2014
 
 Def Method has been in business for six months. Since I'm a software developer by trade, one of the first things I did was secure a web address. Then I got myself a Twitter handle for the business. I signed up for a Google Apps account and hooked up my email account. I had a logo designed for me and even ordered business cards. I did all of the things I thought were necessary to get a business up and running and into the public eye.
 
